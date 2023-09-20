@@ -1,0 +1,56 @@
+
+body header {
+  background-image: url('CUAUTLA.jpg'); 
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+
+}
+
+body header h1 {
+    text-align: center;
+    color: azure;
+    font-size: 400%;
+}
+
+body main #caja {
+background-color: black;
+text-align: center;
+}
+
+body main #caja img {
+    padding: 25px;
+    width: 200px;
+    height: 200px;
+}
+
+body main #caja p {
+    color: aqua;
+}
+
+body main h1 { 
+font-size: 250%;
+}
+
+body main p {
+font-size: 100%;
+}
+
+body #imagen {
+    background-image: url(5.jpg);
+    height: 250px;
+    width: 100%;
+    background-position: top;
+    background-size: 90%;
+    background-attachment: fixed;
+}
+
+body #vidio {
+    margin-left: 23%;
+}
+
+body footer {
+    text-align: center;
+}
