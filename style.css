@@ -1,0 +1,66 @@
+body {
+    background-color: aqua;
+}
+
+body header{
+    
+    background-image:url("viaje.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+}
+
+body main #imagenes p{
+    text-align: center;
+}
+
+body main #imagenes img{
+    padding: 25px;
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 0px;
+}
+
+body header h1{
+    text-align: center;
+    line-height: 500px;
+}
+
+body main #imagenes {
+    background-color: green;
+    width: 100%;
+    height:300px; 
+}
+
+body #Cancun{
+    margin-left: 23%;
+    margin-top: 10%;
+}
+
+body #Video{
+    background-image: url("oceano.jpg");
+    background-repeat: no-repeat ;
+    background-size: 100%;
+    background-attachment: fixed;
+    width:100%;
+    height: 250px;
+
+
+}
+
+body footer{
+    text-align: center;
+}
+
+body footer a{
+    text-decoration: none;
+    color: black;
+}
+
+*{
+    font-family: 'Modak',cursive;
+    font-size: 20px;
+}
