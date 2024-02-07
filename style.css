@@ -1,0 +1,56 @@
+body { 
+background-color: chartreuse;
+}
+body header {
+    background-image: url("Zac.jpeg");
+    background-position: center;
+    background-size: 100%;
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+
+}
+
+body header h1 {
+    text-align: center;
+    line-height: 500px;
+    color: blue;
+}
+
+body main #Imagenes {
+    background-color: red;
+width: 100%;
+height: 300px;
+
+}
+body main #Imagenes img {
+    padding: 25px;
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+body main #Imagenes p {
+    text-align: center;
+
+}
+body #VIDEO {
+ margin-left: 300px;
+}
+body footer {
+    text-align: center;
+    
+}
+body footer a{
+    text-decoration: none;
+    color: tomato;
+}
+#IMGFONDO {
+    height: 300px;
+    width: 100%;
+    background-image: url("patttos.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+
+}
